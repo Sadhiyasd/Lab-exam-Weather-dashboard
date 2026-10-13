@@ -1,0 +1,32 @@
+body {
+    font-family: Arial;
+    background: linear-gradient(skyblue, white);
+    text-align: center;
+    padding: 50px;
+}
+
+.container {
+    background: white;
+    padding: 30px;
+    max-width: 400px;
+    margin: auto;
+    border-radius: 15px;
+    box-shadow: 0 0 10px gray;
+}
+
+input, button {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+button {
+    background: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#result {
+    margin-top: 20px;
+}
